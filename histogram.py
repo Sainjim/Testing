@@ -28,3 +28,5 @@ plt.show()
 #plt.show()
 
 #them6 dong nay
+
+#them them dong nay
