@@ -12,3 +12,5 @@ median_value = np.median(data)
 # Display the results
 print("Mean:", mean_value)
 print("Median:", median_value)
+
+#them dòng này
