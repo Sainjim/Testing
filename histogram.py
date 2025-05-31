@@ -30,3 +30,5 @@ plt.show()
 #them6 dong nay
 
 #them them dong nay
+
+#chi cho branch 2
