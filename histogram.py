@@ -26,3 +26,5 @@ plt.show()
 #plt.ylabel("Frequency")
 
 #plt.show()
+
+#them6 dong nay
